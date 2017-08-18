@@ -1,6 +1,11 @@
 # AWS-Alexa-OnHighLevel
 AWS- Alexa is an intelligent personal assistant developed by Amazon. In this repo, you will find an high level explanation of how you could develop your custom built Alexa app with an example. 
-In this folder there are different files that includes main logic code(index.js), alexa-sdk & aws-sdk (node-modules),  datafiles(data.js).
+
+In this folder there are different files:
+main logic code(index.js),
+alexa-sdk & aws-sdk (node-modules), 
+datafiles(data.js).
+
 Three simple steps to develop your custom built alexa application:
 
 Step 1: Sign in to AWS account and create a function(Lambda) 
